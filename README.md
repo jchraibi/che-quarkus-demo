@@ -4,14 +4,6 @@ To run this demo:
 
 [![Contribute](https://www.eclipse.org/che/contribute.svg)](https://codeready-workspaces.apps.ocp4.cloud.openshift.fr/f?url=https://raw.githubusercontent.com/jchraibi/che-quarkus-demo/microservices/devfile.yaml)
 
-or
-
-```
-https://<your-che-instance>/f?url=https://raw.githubusercontent.com/sunix/che-quarkus-demo/microservices/devfile.yaml
-```
-
-
-
 
 ## Introduction
 The goal of this demo is to provide a developer environment to get started in coding with Quarkus.
