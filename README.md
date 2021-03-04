@@ -2,7 +2,7 @@
 
 To run this demo:
 
-[![Contribute](https://che.openshift.io/factory/resources/factory-contribute.svg)](http://codeready-codeready.apps.ocp42.dc.openshift.fr/f?url=https://raw.githubusercontent.com/jchraibi/che-quarkus-demo/microservices/devfile.yaml)
+[![Contribute](https://www.eclipse.org/che/contribute.svg)](https://codeready-workspaces.apps.ocp4.cloud.openshift.fr/f?url=https://raw.githubusercontent.com/jchraibi/che-quarkus-demo/microservices/devfile.yaml)
 
 or
 
